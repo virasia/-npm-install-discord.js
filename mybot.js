@@ -10,4 +10,4 @@ botNep.on('ready', () => {
     }
  });
  
- botNep.login('Mjc3Nzg5MzgzNDgwODM2MDk2.C3i3DQ.0R_Nmv9VWZgl3LTdruV7nhBAPzk');
+ botNep.login('Mjc3Nzg5MzgzNDgwODM2MDk2.C3jCMA.-dCxSt4U44JvxAlbdMxifUT5WyE);
