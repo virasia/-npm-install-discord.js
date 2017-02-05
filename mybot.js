@@ -1,5 +1,7 @@
 const Discord = require('discord.js');
+
 const botNep = new Discord.Client();
+
 botNep.on('ready', () => {
  console.log('Nep ready!');
   });
