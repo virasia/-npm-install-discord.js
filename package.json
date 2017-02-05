@@ -1,7 +1,7 @@
 {
-  "name": "Nep bot",
+  "name": "Neptune bot",
   "version": "0.0.1",
-  "description": "Example discord bot by using discord.js",
+  "description": "Pudding",
   "main": "myBot.js",
   "dependencies": {
     "discord.js": "^10.0.1"
