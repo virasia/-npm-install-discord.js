@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
 
-const botNep = new Discord.Client();
+const botNeptune = new Discord.Client();
 
-botNep.on('ready', () => {
- console.log('Nep ready!');
+botNeptune.on('ready', () => {
+ console.log('Neptune ready!');
   });
   
  botNep.on('message', message => {
@@ -12,4 +12,4 @@ botNep.on('ready', () => {
     }
  });
  
- botNep.login('Mjc3Nzg5MzgzNDgwODM2MDk2.C3jFxw._SHqPQGV4jL_Hp5sqLjqwDDAPpA');
+ botNeptune.login('Mjc3Nzg5MzgzNDgwODM2MDk2.C3jFxw._SHqPQGV4jL_Hp5sqLjqwDDAPpA');
